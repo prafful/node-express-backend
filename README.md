@@ -1,3 +1,3 @@
-## Frontend
+## React Frontend
 
-Backend repository is available at (https://github.com/prafful/react-frontend)
+React frontend repository is available at (https://github.com/prafful/react-frontend)
